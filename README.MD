@@ -1,4 +1,0 @@
-ALUMNO: Lucas Meabrio
-CURSO: 5
-DIVISION: 2
-COMISION: B  
